@@ -1,0 +1,163 @@
+
+body{
+	font-family: "Arial", sans-serif;
+}
+header{
+	height: 100px;
+	background-color: #333333;
+}
+.logo{
+	width: 80px;
+	height: 80px;
+	margin-top: 5px;
+}
+nav ul{
+	list-style-type: none;
+	padding-top: 40px;
+	float: right;
+}
+nav ul li{
+	float: left;
+	color: white;
+	padding-left: 20px;
+	font-size: 15px;
+	
+}
+li a {
+	text-decoration: none;
+	color: white;
+}
+
+li a:hover{
+	color:#c62828;
+}
+/* ------------------ primera section ----------------- */
+.section1{
+	background-color: #EEEEEE;
+	padding: 20px 0px;
+	border-bottom: 1px solid #CCCCCC; 
+}
+.section1 .link{
+	text-decoration: none;
+	color:#3B76B0;
+	font-size: 10px;
+}
+.section1 .link:hover{
+	color: #c62828;
+}
+.fila{
+	padding-top: 20px;
+}
+.imagen{
+	background-color: white;
+	border: 1px solid #CCCCCC;
+	width: 200px;
+	height:200px;
+	padding: 2px;
+}
+.fondoimage{
+	text-align: center;
+}
+.fondoimage a{
+	text-decoration: none;
+}
+.fondoimage h4{
+	color:#3B76B0;
+}
+.fondoimage h4:hover{
+	color: #c62828;
+}
+/* ---------------------- Segunda Seccion -------------*/
+.section2{
+	padding: 30px 0px;
+}
+.imagens2{
+	background: #fff;
+	border: 1px solid #CCCCCC;
+	height: 110px;
+	padding: 2px;
+	width: 110px;
+}
+.filas{
+	margin-bottom: 15px;
+}
+.texto1 a{
+	color:#336699;
+	text-decoration: none;
+	text-align: center;
+	font-size: 14px;
+}
+.texto1 a:hover{
+ 	color: #990000;
+}
+/* ----------------lateral --------------*/
+aside{
+	padding: 20px 0px;
+}
+
+.container2{
+	padding: 10px 0px;
+}
+.linea{
+	border-bottom: 2px solid #CCCCCC;
+	margin-bottom: 20px;
+}
+.iconos{
+	width: 15px;
+	height: 15px;
+	margin-right: 10px;
+}
+.letras{
+	color:#336699;
+	margin-bottom: 5px;
+	font-size: 14px;
+}
+.letras a{
+	color:#336699;
+	text-decoration: none;
+}
+
+.letras a:hover{
+	color: #990000;	
+}
+/*-------------footer --------------*/
+footer{
+	border-bottom: 1px solid #333;
+	color:#fff; 
+	background-color: #333;
+	padding: 10px 0px;
+}
+
+.piepagina{
+	padding-top: 10px;	
+	padding-bottom: 10px;
+
+}
+.readmore{
+	color:#C8CCCC;
+	text-decoration: none;
+}
+.lista{
+	margin: 20px 0px;
+}
+.lista ul{
+	text-align: center;
+}
+.lista li{
+	list-style-type: none;
+	display: inline-block;
+	
+}
+.lista li a{
+	color:#C8CCCC;
+	text-decoration: none;
+	margin-right: 10px;
+	
+}
+.finletra{
+	clear: both;
+	color:#969696;
+	font-size: 10px;
+	text-align: center;
+	margin: 20px 0px;
+}
