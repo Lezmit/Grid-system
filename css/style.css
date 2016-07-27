@@ -161,3 +161,9 @@ footer{
 	text-align: center;
 	margin: 20px 0px;
 }
+.hov a:hover{
+	background-color: gray;
+}
+.hov {
+	padding: 10px;
+}
